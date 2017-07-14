@@ -1,0 +1,9 @@
+#+TITLE: Index
+#+AUTHOR: Vlead
+
+* Numerics
+** [[./introduction-E1076/introduction-E1076.org][Introduction]]
+** [[./blog-E1076/blog-E1076.org][Blog]]
+** [[./method-E1076/method-E1076.org][Method]]
+** [[./hello-E1076/hello-E1076.org][Hello]]
+** [[./simulation-E1076/simulation-E1076.org][Simulation]]
